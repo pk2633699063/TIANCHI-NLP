@@ -12,7 +12,7 @@ This project records the learning process of TIANCHI-NLP competition
 
 ## Task02 20200722
 ### Tasks completed:
-- Learn a different environment IPython
+- Learn a different environment IPython; by using #%% we can make "cell run" on Visual Studio Code
 - Use pd.read_csv() to load .csv file
 - Use function apply() to calculate the length of each row; use function describe() to show statistics
 - Use plt.hist() to show Histogram; use .plot() to show bar graph
