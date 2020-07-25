@@ -20,3 +20,12 @@ This project records the learning process of TIANCHI-NLP competition
 
 ### Plan for learning:
 - Do more practice using the functions showed above;
+
+## Task03 20200725
+### Tasks completed:
+- Learning the concept of "One-hot", "Bag of Words", "N-gram", "TF-IDF".
+- Learning different Machine Learning methods for text classification.
+
+### Plan for learning:
+- Learning more modules and function from "sklearn".
+
