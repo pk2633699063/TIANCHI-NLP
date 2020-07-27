@@ -29,3 +29,10 @@ This project records the learning process of TIANCHI-NLP competition
 ### Plan for learning:
 - Learning more modules and function from "sklearn".
 
+## Task04 20200727
+### Tasks completed:
+- Learning the usage of FastText.
+- Learning adjusting the parameters with validation set.
+
+### Plan for learning:
+- Know more about FastTest.
